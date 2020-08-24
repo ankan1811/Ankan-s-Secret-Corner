@@ -62,5 +62,35 @@ The quantity of the items can be varied.
 The total price will be displayed at the bottom.
 
 
+### 4.Live Location on Google Map
 
 
+
+![](Screenshots/Ov6qwKH.png)
+
+
+The live Location of the restaurant is available on google map which can be displayed anytime anywhere.
+
+
+
+### 5.Contact form for any recommendations from the customer:
+
+
+![](Screenshots/QBDe2rA.png)
+
+
+As usual Customers are our biggest priorities.
+We will always work upon any recommendations or suggestions from them.
+
+### 6.Anyone can follow me(Ankan Pal,The creator)
+
+
+
+
+![](Screenshots/NhVwzzi.png)
+
+
+Anyone is free to follow me on github,Linkedin or Facebook.
+
+
+##### Thank you !!!
