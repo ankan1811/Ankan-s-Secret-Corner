@@ -47,7 +47,19 @@ Every cuisine has a beutiful envelope type menu system.It has specially been des
 Here every item can be added to the cart before the customer makes the decision of buying them.
 This is a very useful feature.
 
+
 ### 3.A very sophisticated Cart Sytsem:
+
+
+
+![](Screenshots/bWwKviW.png)
+
+
+In the cart Sytsem, any item can be added any number of times.
+
+The quantity of the items can be varied.
+
+The total price will be displayed at the bottom.
 
 
 
