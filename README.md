@@ -24,22 +24,31 @@ The menu consists of mostly all cuisines.Here there are 6 cuisines:
 ![](Screenshots/TEiuFEQ.jpg)
 
 
-# Fig1.Indian
+#### Fig1.Indian
 
 
 
 ![](Screenshots/VInT8Yr.png)
 
 
-# Fig1.Chinese
+#### Fig2.Chinese
 
 
 Every cuisine has a beutiful envelope type menu system.It has specially been designed for the convenience of the customers.
 
 
 
+### 2.Add to Cart System with proper Price:
 
 
 ![](Screenshots/W6B9s9j.png)
+
+
+Here every item can be added to the cart before the customer makes the decision of buying them.
+This is a very useful feature.
+
+### 3.A very sophisticated Cart Sytsem:
+
+
 
 
