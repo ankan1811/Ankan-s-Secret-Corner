@@ -20,6 +20,8 @@ The menu consists of mostly all cuisines.Here there are 6 cuisines:
 
 6.Desserts
 
+
 ![](Screenshots/TEiuFEQ.jpg)
+
 
 Every cuisine has a beutiful envelope type menu system.It has specially been designed for the convenience of the customers.
