@@ -57,6 +57,8 @@ This is a very useful feature.
 
 In the cart Sytsem, any item can be added any number of times.
 
+It is made by javascript.
+
 The quantity of the items can be varied.
 
 The total price will be displayed at the bottom.
@@ -73,7 +75,7 @@ The live Location of the restaurant is available on google map which can be disp
 
 
 
-### 5.Contact form for any recommendations from the customer:
+### 5.Contact form for any recommendations from the customer sent directly to my email:
 
 
 ![](Screenshots/QBDe2rA.png)
